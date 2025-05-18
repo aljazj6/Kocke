@@ -5,7 +5,6 @@ Simulacija igre s tremi uporabniki, kjer vsak vrže 3 kocke. Na koncu se izraču
 ## 📌 Avtor
 
 **Ime:** Aljaž Jurjavčič
-**Tehnologije:** PHP, HTML, CSS, JavaScript, XAMPP (Apache), sejna podpora (`$_SESSION`)
 
 ---
 
@@ -17,7 +16,6 @@ Simulacija igre s tremi uporabniki, kjer vsak vrže 3 kocke. Na koncu se izraču
 - Izračun skupnega rezultata
 - Izpis zmagovalca/cev
 - Samodejna preusmeritev nazaj na začetni obrazec po 10 sekundah
-- Uporaba sej za shranjevanje podatkov med zahtevki
 
 ---
 
@@ -40,4 +38,4 @@ Simulacija igre s tremi uporabniki, kjer vsak vrže 3 kocke. Na koncu se izraču
 ### 4. Odpri aplikacijo v brskalniku
 
 ```bash
-http://localhost/dice_game/
+http://localhost/Kocke/
